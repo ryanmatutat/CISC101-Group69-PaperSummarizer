@@ -60,6 +60,7 @@ Detect missing or empty sections.
 Detect short sections (<50 words).
 Apply PS2 word-limit constraints.
 Pre-chunk long papers using context-window strategies.
+
 Module 2: Section Loop
 For each section in the user-provided list.
 Extract the corresponding text.
