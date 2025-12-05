@@ -1,0 +1,5 @@
+Module 5: Citation Extractor & Validator
+Extract in-text citations exactly as they appear in the paper.
+Validate that each citation exists in the provided text.
+Absolutely no fabricated citation content.
+Flag missing or mismatched bibliography entries.
