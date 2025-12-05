@@ -1,5 +1,10 @@
 Module 6: Key Contributions & Novelty Mapper
+
+
 Identify 3–7 core contributions of the paper.
+
 Distinguish novel vs. incremental contributions.
+
 Map contributions to their respective sections.
+
 Output a concise contributions chart.
